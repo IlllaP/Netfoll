@@ -5,7 +5,7 @@
 # 🔑 https://www.gnu.org/licenses/agpl-3.0.html
 # Netfoll Team modifided Hikka files for Netfoll
 # 🌐 https://github.com/MXRRI/Netfoll
-
+# сакура лох
 import asyncio
 import builtins
 import importlib
